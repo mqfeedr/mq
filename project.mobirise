@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "burger.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -234,7 +234,7 @@
                 "showText": true,
                 "text": " ​Beefy, bloody and bizarrely hard to get right, steak has an appeal far beyond the average piece of meat..",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"steak.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"steak.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
               }
             ],
             "bgColor": "#fff",
