@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "greek.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -131,7 +131,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -312,7 +312,7 @@
               "family": "et-line"
             }
           },
-          "text4": "<p><a href=\"mailto:harish.srivathsa@gmail.com\" target=\"_blank\">support@mqfeedr.com</a></p>",
+          "text4": "<p><a href=\"&lt;a href &quot;mailto:harish.srivathsa@gmail.com&quot;/&gt;\" target=\"_blank\">support@mqfeedr.com</a></p>",
           "title1": "",
           "text5": "",
           "text6": "<strong>Contacts</strong><br>Email: support@mqfeedr.com<br>Phone: +61 444 444 444<br><br><br><br><strong>Address</strong><br>1234 Sydney Road<br>City, 2000",
@@ -395,7 +395,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mqfeedr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/mqfeedr/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/mqfeedr/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mqfeedr/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mqfeedr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
@@ -428,7 +428,7 @@
                 "showText": true,
                 "text": "Traditional Italian pepperoni, roma tomatoes, chopped green chilli, chopped red chilli &amp; Italian buffalo mozzarell.",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25.95&amp;item_name=Americano&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25.95&amp;item_name=Pizza+Place-+Americano&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
               },
               {
                 "active": false,
@@ -442,7 +442,7 @@
                 "showText": true,
                 "text": "Marinated grilled chicken breast, roasted capsicum, Spanish onion, roma tomatoes, bocconcini &amp; rocket with our spicy Peri Peri sauce served with a side of chilli",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=26.95&amp;item_name=Peri+Peri+Chicken&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=26.95&amp;item_name=Pizza+Place-+Peri+Peri+Chicken&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
               },
               {
                 "active": true,
@@ -456,7 +456,7 @@
                 "showText": true,
                 "text": "Goats curd base, spinach, mushrooms, roasted pumpkin, balsamic onions, roma tomatoes, kalamata olives, roasted pinenuts, shaved parmesan, *pesto, parmesan sauce &amp; balsamic glaze (NB Vegetarian no parmesan)",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=24.95&amp;item_name=The+true+vegetarian&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=24.95&amp;item_name=Pizza+Place-The+true+vegetarian&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
               }
             ],
             "fullScreen": true,
@@ -509,7 +509,7 @@
           "title1": "Americano",
           "subtitle1": "",
           "caption1": "Traditional Italian pepperoni, roma tomatoes, chopped green chilli, chopped red chilli &amp; Italian buffalo mozzarell. &nbsp; <br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25.95&amp;item_name=Americano&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25.95&amp;item_name=Pizza+Place-+Americano&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/peri-peri-600x600.jpg",
@@ -525,7 +525,7 @@
           "title2": "Peri Peri Chicken",
           "subtitle2": "",
           "caption2": "Marinated grilled chicken breast, roasted capsicum, Spanish onion, roma tomatoes, bocconcini &amp; rocket with our spicy Peri Peri sauce served with a side of chilli<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=26.95&amp;item_name=Peri+Peri+Chicken&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=26.95&amp;item_name=Pizza+Place-+Peri+Peri+Chicken&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/veg-pizza-600x399.jpg",
@@ -541,7 +541,7 @@
           "title3": "The true vegetarian",
           "subtitle3": "",
           "caption3": "Goats curd base, spinach, mushrooms, roasted pumpkin, balsamic onions, roma tomatoes, kalamata olives, roasted pinenuts, shaved parmesan, *pesto, parmesan sauce &amp; balsamic glaze (NB Vegetarian no parmesan)",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=24.95&amp;item_name=The+true+vegetarian&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=24.95&amp;item_name=Pizza+Place-+The+true+vegetarian&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/chicken-tikka-pizza-600x399.jpg",
@@ -557,7 +557,7 @@
           "title4": "Grilled Chicken Tandoori",
           "subtitle4": "",
           "caption4": "Marinated Tandoori chicken breast, cucumber, roma tomatoes finished with mango chutney &amp; our classic cucumber yoghurt dressing..<br><br><br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25.95&amp;item_name=Grilled+Chicken+Tandoori&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25.95&amp;item_name=Pizza+Place-+Grilled+Chicken+Tandoori&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mediterranean-600x430.jpg",
@@ -573,7 +573,7 @@
           "title5": "Mediterranean",
           "subtitle5": "",
           "caption5": "Basil, spinach, mushrooms, Spanish onion, olives, fetta, roast capsicum &amp; oregano topped with sundried tomatoes.<br><br><br><br><br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=24.95&amp;item_name=Mediterranean&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=24.95&amp;item_name=Pizza+Place-+Mediterranean&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -679,7 +679,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -768,7 +768,7 @@
               "family": "et-line"
             }
           },
-          "text4": "<p><a href=\"mailto:harish.srivathsa@gmail.com\" target=\"_blank\">support@mqfeedr.com</a></p>",
+          "text4": "<p><a href=\"&lt;a href &quot;mailto:harish.srivathsa@gmail.com&quot;/&gt;\" target=\"_blank\">support@mqfeedr.com</a></p>",
           "title1": "",
           "text5": "",
           "text6": "<strong>Contacts</strong><br>Email: support@mqfeedr.com<br>Phone: +61 444 444 444<br><br><br><br><strong>Address</strong><br>1234 Sydney Road<br>City, 2000",
@@ -851,7 +851,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mqfeedr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/mqfeedr/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+mqfeedr/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mqfeedr/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mqfeedr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
@@ -884,7 +884,7 @@
                 "showText": true,
                 "text": "Chicken | Vermicelli | Black mushrooms | Plum sauce",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=12&amp;item_name=Thai+Chicken+Spring+Roll&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=12&amp;item_name=Thai-+Thai+Chicken+Spring+Roll&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
               },
               {
                 "active": false,
@@ -898,7 +898,7 @@
                 "showText": true,
                 "text": "Galangal | Lemon grass | Kaffir lime leaf | Mushrooms",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=15&amp;item_name=Tom+yum+Prawn+Soup&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=15&amp;item_name=Thai-+Tom+yum+Prawn+Soup&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
               },
               {
                 "active": true,
@@ -912,7 +912,7 @@
                 "showText": true,
                 "text": "Grilled skewered chicken | Peanut sauce<br>",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=14&amp;item_name=Chicken+Satay+&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=14&amp;item_name=Thai-+Chicken+Satay+&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
               }
             ],
             "fullScreen": true,
@@ -965,7 +965,7 @@
           "title1": "Thai Chicken Spring Rolls (4 pcs)",
           "subtitle1": "",
           "caption1": "Chicken | Vermicelli | Black mushrooms | Plum sauce",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=12&amp;item_name=Thai+Chicken+Spring+Rolls&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=12&amp;item_name=Thai-+Thai+Chicken+Spring+Rolls&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/tom-yum-soup-600x397.jpg",
@@ -981,7 +981,7 @@
           "title2": "Tom Yum Prawn Soup",
           "subtitle2": "",
           "caption2": "Galangal | Lemon grass | Kaffir lime leaf | Mushrooms<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=15&amp;item_name=Tom+Yum+Prawn+Soup&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=15&amp;item_name=Thai-+Tom+Yum+Prawn+Soup&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/chicken-satay-600x399.jpg",
@@ -997,7 +997,7 @@
           "title3": "Chicken Satay (4 pcs)",
           "subtitle3": "",
           "caption3": "Grilled skewered chicken | Peanut sauce<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=14&amp;item_name=Chicken+Satay&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=14&amp;item_name=Thai-+Chicken+Satay&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/tofu-vegetable-600x398.jpg",
@@ -1013,7 +1013,7 @@
           "title4": "Three Flavoured Tofu&nbsp;",
           "subtitle4": "",
           "caption4": "Deep fried | Bean curd | Spicy sweet sour sauce | Peanuts..<br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=11&amp;item_name=Three+Flavoured+Tofu+&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=11&amp;item_name=Thai-+Three+Flavoured+Tofu+&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/thai-coconut-cream-soup-veg-600x421.jpg",
@@ -1029,7 +1029,7 @@
           "title5": "Vegetable Coconut Soup",
           "subtitle5": "",
           "caption5": "Coconut soup | Vegetables | Galangal | Mushrooms<br><br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=10&amp;item_name=Vegetable+Coconut+Soup&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=10&amp;item_name=Thai-+Vegetable+Coconut+Soup&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -1135,7 +1135,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -1224,7 +1224,7 @@
               "family": "et-line"
             }
           },
-          "text4": "<p><a href=\"mailto:harish.srivathsa@gmail.com\" target=\"_blank\">support@mqfeedr.com</a></p>",
+          "text4": "<p><a href=\"&lt;a href &quot;mailto:harish.srivathsa@gmail.com&quot;/&gt;\" target=\"_blank\">support@mqfeedr.com</a></p>",
           "title1": "",
           "text5": "",
           "text6": "<strong>Contacts</strong><br>Email: support@mqfeedr.com<br>Phone: +61 444 444 444<br><br><br><br><strong>Address</strong><br>1234 Sydney Road<br>City, 2000",
@@ -1307,7 +1307,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mqfeedr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/mqfeedr/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/mqfeedr/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mqfeedr/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mqfeedr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
@@ -1340,7 +1340,7 @@
                 "showText": true,
                 "text": "Free range chicken, smoked bacon, coleslaw, pickles, lettuce &amp; katsu sauce",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=13.90&amp;item_name=Fried+Chicken+%26+bacon+Katsu&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=13.90&amp;item_name=Burger-+Fried+Chicken+&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
               },
               {
                 "active": true,
@@ -1354,7 +1354,7 @@
                 "showText": true,
                 "text": "Crumbed confit mushroom, cheese, onion, pickles, tomato, lettuce &amp; secret sauce",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=11.90&amp;item_name=Magic+mushroom&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=11.90&amp;item_name=Burger-+Magic+mushroom&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
               },
               {
                 "active": false,
@@ -1368,7 +1368,7 @@
                 "showText": true,
                 "text": "Grass fed beef, beetroot, cheese, onion, pickles, tomato, lettuce &amp; secret sauce<br>",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=12.50&amp;item_name=Aussie&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=12.50&amp;item_name=Burger-+Aussie&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
               }
             ],
             "fullScreen": true,
@@ -1421,7 +1421,7 @@
           "title1": "MAGIC MUSHROOM",
           "subtitle1": "",
           "caption1": "Crumbed confit mushroom, cheese, onion, pickles, tomato, lettuce &amp; secret sauce.<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=11.90&amp;item_name=Magic+mushroom&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=11.90&amp;item_name=Burger-+Magic+mushroom&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/katsu-chicken-balls-600x441.jpg",
@@ -1437,7 +1437,7 @@
           "title2": "FRIED CHICKEN &amp; BACON KATSU",
           "subtitle2": "",
           "caption2": "Free range chicken, smoked bacon, coleslaw, pickles, lettuce &amp; katsu sauce",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=13.90&amp;item_name=Fried+Chicken+&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=13.90&amp;item_name=Burger-+Fried+Chicken+&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/chicken-satay-600x399.jpg",
@@ -1453,7 +1453,7 @@
           "title3": "AUSSIE BEEF BURGER",
           "subtitle3": "",
           "caption3": "Grass fed beef, beetroot, cheese, onion, pickles, tomato, lettuce &amp; secret sauce",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=12.50&amp;item_name=Aussie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=12.50&amp;item_name=Burger-+Aussie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/french-fries-close-up-600x399.jpg",
@@ -1469,7 +1469,7 @@
           "title4": "LARGE CHIPS",
           "subtitle4": "",
           "caption4": "Salt, Chipotle chilli salt or Sichuan pepper salt<br><br><br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=5.90&amp;item_name=Large+Chips&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=5.90&amp;item_name=Burger-+Large+Chips&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/fresh-vanilla-milkshake-glasses-600x420.jpg",
@@ -1485,7 +1485,7 @@
           "title5": "THICK SHAKES",
           "subtitle5": "",
           "caption5": "Vanilla, Valrhona chocolate, coffee, salted caramel &amp; strawberry<br><br><br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=7.50&amp;item_name=Thick+Shakes&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=7.50&amp;item_name=Burger-+Thick+Shakes&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/burgers-and-chips-600x397.jpg",
@@ -1501,7 +1501,7 @@
           "title6": "FEAST FOR 4",
           "subtitle6": "",
           "caption6": "4 burgers, 2 large chips<br><br><br><br><br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=55&amp;item_name=Feast+for+4&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=55&amp;item_name=Burger-+Feast+for+4&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
         },
         {
           "_styles": {
@@ -1595,7 +1595,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -1684,7 +1684,7 @@
               "family": "et-line"
             }
           },
-          "text4": "<p><a href=\"mailto:harish.srivathsa@gmail.com\" target=\"_blank\">support@mqfeedr.com</a></p>",
+          "text4": "<p><a href=\"&lt;a href &quot;mailto:harish.srivathsa@gmail.com&quot;/&gt;\" target=\"_blank\">support@mqfeedr.com</a></p>",
           "title1": "",
           "text5": "",
           "text6": "<strong>Contacts</strong><br>Email: support@mqfeedr.com<br>Phone: +61 444 444 444<br><br><br><br><strong>Address</strong><br>1234 Sydney Road<br>City, 2000",
@@ -1767,7 +1767,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mqfeedr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/mqfeedr/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+mqfeedr/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mqfeedr/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mqfeedr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
@@ -1800,7 +1800,7 @@
                 "showText": true,
                 "text": "traditional Greek salad of tomato, cucumber, capsicum, spanish onions, fetta, olives and wild oregano (GF)",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=16&amp;item_name=Greek+Salad&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=16&amp;item_name=Greek-+Greek+Salad&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
               },
               {
                 "active": true,
@@ -1814,7 +1814,7 @@
                 "showText": true,
                 "text": "traditional oven baked layered potato, eggplant, lamb mince and bechamel",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Mousaka&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Greek-+Mousaka&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
               },
               {
                 "active": false,
@@ -1828,7 +1828,7 @@
                 "showText": true,
                 "text": "Yogurt, cucumber and garlic dip (GF)<br>(DIPS SERVED WITH WARM PITA BREAD)<br>",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9&amp;item_name=Tzatziki&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9&amp;item_name=Greek-+Tzatziki&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
               }
             ],
             "fullScreen": true,
@@ -1881,7 +1881,7 @@
           "title1": "MOUSAKA",
           "subtitle1": "",
           "caption1": "Traditional oven baked layered potato, eggplant, lamb mince and bechamel<br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Mousaka&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=28&amp;item_name=Greek-+Mousaka&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/tzatziki-600x447.jpg",
@@ -1897,7 +1897,7 @@
           "title2": "TZATZIKI",
           "subtitle2": "",
           "caption2": "Yogurt, cucumber and garlic dip (GF)<br>(DIPS SERVED WITH WARM PITA BREAD)<br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9&amp;item_name=Tzatziki&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=9&amp;item_name=Greek-+Tzatziki&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/greek-salad-600x399.jpg",
@@ -1913,7 +1913,7 @@
           "title3": "MEDUSA GREEK SALAD",
           "subtitle3": "",
           "caption3": "Traditional Greek salad of tomato, cucumber, capsicum, spanish onions, fetta, olives and wild oregano (GF)<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=16&amp;item_name=Greek+Salad&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=16&amp;item_name=Greek-+Greek+Salad&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/souvlaki-skewer-600x472.jpg",
@@ -1929,7 +1929,7 @@
           "title4": "XIFIAS SOUVLAKI",
           "subtitle4": "",
           "caption4": "Swordfish and prawn skewers, chargrilled with lime, chilli and honey sauce (GF)<br><br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Xifias+Souvlaki&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=35&amp;item_name=Greek-+Xifias+Souvlaki&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/loukoumades-greek-600x493.jpg",
@@ -1945,13 +1945,17 @@
           "title5": "LOUKOUMADES",
           "subtitle5": "",
           "caption5": "Delicious and moreish dough puffs, smothered in honey and walnuts<br><br><br><br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=10&amp;item_name=Loukoumades&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=10&amp;item_name=Greek-+Loukoumades&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x409.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title6": "Test",
@@ -2051,7 +2055,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -2140,7 +2144,7 @@
               "family": "et-line"
             }
           },
-          "text4": "<p><a href=\"mailto:harish.srivathsa@gmail.com\" target=\"_blank\">support@mqfeedr.com</a></p>",
+          "text4": "<p><a href=\"&lt;a href &quot;mailto:harish.srivathsa@gmail.com&quot;/&gt;\" target=\"_blank\">support@mqfeedr.com</a></p>",
           "title1": "",
           "text5": "",
           "text6": "<strong>Contacts</strong><br>Email: support@mqfeedr.com<br>Phone: +61 444 444 444<br><br><br><br><strong>Address</strong><br>1234 Sydney Road<br>City, 2000",
@@ -2256,7 +2260,7 @@
                 "showText": true,
                 "text": "This well-marbled cut consists of two lean, tender steaks",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=T-Bone&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Steak-+T-Bone&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
               },
               {
                 "active": false,
@@ -2270,7 +2274,7 @@
                 "showText": true,
                 "text": "house-made tomato relish, lime aioli",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=20&amp;item_name=Calamari&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=20&amp;item_name=Steak-+Calamari&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
               },
               {
                 "active": true,
@@ -2284,7 +2288,7 @@
                 "showText": true,
                 "text": "This boneless steak is rich, tender, juicy and full-flavored, with generous marbling throughout<br>",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=38&amp;item_name=Rib+Eye&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=38&amp;item_name=Steak-+Rib+Eye&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
               }
             ],
             "fullScreen": true,
@@ -2337,7 +2341,7 @@
           "title1": "T-BONE 300g *",
           "subtitle1": "",
           "caption1": "This well-marbled cut consists of two lean, tender steaks<br><br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=T-Bone&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Steak-+T-Bone&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/calamari-600x399.jpg",
@@ -2353,7 +2357,7 @@
           "title2": "LEMON-PEPPERED CALAMARI",
           "subtitle2": "",
           "caption2": "House-made tomato relish, lime aioli<br><br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=20&amp;item_name=Calamari&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=20&amp;item_name=Steak-+Calamari&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/rib-eye-steak-600x399.jpg",
@@ -2369,7 +2373,7 @@
           "title3": "RIB EYE 350g *",
           "subtitle3": "",
           "caption3": "This boneless steak is rich, tender, juicy and full-flavored, with generous marbling throughout<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=38&amp;item_name=Rib+Eye&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=38&amp;item_name=Steak-+Rib+Eye&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/grilled-chicken-breast-600x398.jpg",
@@ -2385,7 +2389,7 @@
           "title4": "GRILLED boneless ½ CHICKEN",
           "subtitle4": "",
           "caption4": "Boneless breast of chicken, marinated with a special blend of seasonings and grilled for a tender grilled taste.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=GRILLED+boneless+%C2%BD+CHICKEN&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=25&amp;item_name=Steak-+GRILLED+boneless+%C2%BD+CHICKEN&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/sticky-date-pudding-600x399.jpg",
@@ -2401,7 +2405,7 @@
           "title5": "STICKY MEDJOOL DATE PUDDING",
           "subtitle5": "",
           "caption5": "Rich but light fluffy pudding served with vanilla bean icecream, butter toffee sauce<br><br>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=15&amp;item_name=STICKY+MEDJOOL+DATE+PUDDING&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=15&amp;item_name=Steak-+STICKY+MEDJOOL+DATE+PUDDING&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -2507,7 +2511,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -2596,7 +2600,7 @@
               "family": "et-line"
             }
           },
-          "text4": "<p><a href=\"mailto:harish.srivathsa@gmail.com\" target=\"_blank\">support@mqfeedr.com</a></p>",
+          "text4": "<p><a href=\"&lt;a href &quot;mailto:harish.srivathsa@gmail.com&quot;/&gt;\" target=\"_blank\">support@mqfeedr.com</a></p>",
           "title1": "",
           "text5": "",
           "text6": "<strong>Contacts</strong><br>Email: support@mqfeedr.com<br>Phone: +61 444 444 444<br><br><br><br><strong>Address</strong><br>1234 Sydney Road<br>City, 2000",
@@ -2679,7 +2683,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mqfeedr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/mqfeedr/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+mqfeedr/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mqfeedr/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mqfeedr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
@@ -2838,7 +2842,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -2927,7 +2931,7 @@
               "family": "et-line"
             }
           },
-          "text4": "<p><a href=\"mailto:harish.srivathsa@gmail.com\" target=\"_blank\">support@mqfeedr.com</a></p>",
+          "text4": "<p><a href=\"&lt;a href &quot;mailto:harish.srivathsa@gmail.com&quot;/&gt;\" target=\"_blank\">support@mqfeedr.com</a></p>",
           "title1": "",
           "text5": "",
           "text6": "<strong>Contacts</strong><br>Email: support@mqfeedr.com<br>Phone: +61 444 444 444<br><br><br><br><strong>Address</strong><br>1234 Sydney Road<br>City, 2000",
@@ -3010,7 +3014,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mqfeedr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/mqfeedr/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+mqfeedr/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mqfeedr/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mqfeedr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     }
