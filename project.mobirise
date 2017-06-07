@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "pizza.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 64,
+    "uniqCompNum": 65,
     "versionPublish": "3.12.1",
     "mcShopcart": {
       "email": "harish.srivathsa@gmail.com"
@@ -131,7 +131,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy T\u001bhai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -246,110 +246,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_styles": {
-            "H4": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "contacts3-2",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/bike-logo-265x156.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "All images subjected to copyrights.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+61 444 444 444",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "1234 Sydney Road<br>City, 2000<br>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<p><a href=\"&lt;a href &quot;mailto:harish.srivathsa@gmail.com&quot;/&gt;\" target=\"_blank\">support@mqfeedr.com</a></p>",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: support@mqfeedr.com<br>Phone: +61 444 444 444<br><br><br><br><strong>Address</strong><br>1234 Sydney Road<br>City, 2000",
-          "form": {
-            "title": "MESSAGE",
-            "action": "harish.srivathsa@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "social-buttons1",
           "_anchor": "social-buttons1-1e",
           "_params": {
@@ -396,6 +292,105 @@
           },
           "text": "FOLLOW US",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mqfeedr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/mqfeedr/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/mqfeedr/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mqfeedr/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mqfeedr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-1s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bike-logo-265x156.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "All images subjected to copyrights.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+61 4444 444 444",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "1234 Sydney Road<br>City 2000",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:harish.srivathsa@gmail.com\" target=\"_blank\">support@mqfeedr.com</a>",
+          "title1": "",
+          "text5": "",
+          "text6": "<strong>Contacts</strong><br>Email: support@mqfeedr.com<br>Phone: +61 4444 444 444<br><br><br><br><strong>Address</strong><br>1234 Sydney Road<br>City, 2000",
+          "form": {
+            "title": "MESSAGE",
+            "action": "harish.srivathsa@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         }
       ]
     },
@@ -679,7 +674,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy T\u001bhai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -697,110 +692,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Mqfeedr."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "H4": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "contacts3-5",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/bike-logo-265x156.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "All images subjected to copyrights.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+61 444 444 444",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "1234 Sydney Road<br>City, 2000<br>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<p><a href=\"&lt;a href &quot;mailto:harish.srivathsa@gmail.com&quot;/&gt;\" target=\"_blank\">support@mqfeedr.com</a></p>",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: support@mqfeedr.com<br>Phone: +61 444 444 444<br><br><br><br><strong>Address</strong><br>1234 Sydney Road<br>City, 2000",
-          "form": {
-            "title": "MESSAGE",
-            "action": "harish.srivathsa@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         },
         {
           "_tags": [
@@ -1135,7 +1026,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy T\u001bhai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -1153,110 +1044,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Mqfeedr."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "H4": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "contacts3-f",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/bike-logo-265x156.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "All images subjected to copyrights.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+61 444 444 444",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "1234 Sydney Road<br>City, 2000<br>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<p><a href=\"&lt;a href &quot;mailto:harish.srivathsa@gmail.com&quot;/&gt;\" target=\"_blank\">support@mqfeedr.com</a></p>",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: support@mqfeedr.com<br>Phone: +61 444 444 444<br><br><br><br><strong>Address</strong><br>1234 Sydney Road<br>City, 2000",
-          "form": {
-            "title": "MESSAGE",
-            "action": "harish.srivathsa@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         },
         {
           "_tags": [
@@ -1595,7 +1382,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy T\u001bhai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -1613,110 +1400,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Mqfeedr."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "H4": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "contacts3-s",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/bike-logo-265x156.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "All images subjected to copyrights.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+61 444 444 444",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "1234 Sydney Road<br>City, 2000<br>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<p><a href=\"&lt;a href &quot;mailto:harish.srivathsa@gmail.com&quot;/&gt;\" target=\"_blank\">support@mqfeedr.com</a></p>",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: support@mqfeedr.com<br>Phone: +61 444 444 444<br><br><br><br><strong>Address</strong><br>1234 Sydney Road<br>City, 2000",
-          "form": {
-            "title": "MESSAGE",
-            "action": "harish.srivathsa@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         },
         {
           "_tags": [
@@ -2055,7 +1738,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy T\u001bhai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -2073,110 +1756,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Mqfeedr."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "H4": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "contacts3-x",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/bike-logo-265x156.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "All images subjected to copyrights.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+61 444 444 444",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "1234 Sydney Road<br>City, 2000<br>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<p><a href=\"&lt;a href &quot;mailto:harish.srivathsa@gmail.com&quot;/&gt;\" target=\"_blank\">support@mqfeedr.com</a></p>",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: support@mqfeedr.com<br>Phone: +61 444 444 444<br><br><br><br><strong>Address</strong><br>1234 Sydney Road<br>City, 2000",
-          "form": {
-            "title": "MESSAGE",
-            "action": "harish.srivathsa@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         },
         {
           "_tags": [
@@ -2511,7 +2090,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy T\u001bhai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -2529,110 +2108,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Mqfeedr."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "H4": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "contacts3-15",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/bike-logo-265x156.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "All images subjected to copyrights.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+61 444 444 444",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "1234 Sydney Road<br>City, 2000<br>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<p><a href=\"&lt;a href &quot;mailto:harish.srivathsa@gmail.com&quot;/&gt;\" target=\"_blank\">support@mqfeedr.com</a></p>",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: support@mqfeedr.com<br>Phone: +61 444 444 444<br><br><br><br><strong>Address</strong><br>1234 Sydney Road<br>City, 2000",
-          "form": {
-            "title": "MESSAGE",
-            "action": "harish.srivathsa@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         },
         {
           "_tags": [
@@ -2842,7 +2317,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy T\u001bhai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -2860,110 +2335,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Mqfeedr."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_styles": {
-            "H4": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "contacts3-18",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/bike-logo-265x156.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "All images subjected to copyrights.",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+61 444 444 444",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "1234 Sydney Road<br>City, 2000<br>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<p><a href=\"&lt;a href &quot;mailto:harish.srivathsa@gmail.com&quot;/&gt;\" target=\"_blank\">support@mqfeedr.com</a></p>",
-          "title1": "",
-          "text5": "",
-          "text6": "<strong>Contacts</strong><br>Email: support@mqfeedr.com<br>Phone: +61 444 444 444<br><br><br><br><strong>Address</strong><br>1234 Sydney Road<br>City, 2000",
-          "form": {
-            "title": "MESSAGE",
-            "action": "harish.srivathsa@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         },
         {
           "_tags": [
