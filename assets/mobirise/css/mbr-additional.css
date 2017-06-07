@@ -485,6 +485,10 @@ h6,
 #contacts3-2 H4 {
   text-align: left;
 }
+#social-buttons2-1f .mbr-section-title,
+#social-buttons2-1f .btn-social {
+  color: #232323;
+}
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -554,6 +558,10 @@ h6,
 }
 #contacts3-5 H4 {
   text-align: left;
+}
+#social-buttons2-1h .mbr-section-title,
+#social-buttons2-1h .btn-social {
+  color: #232323;
 }
 #menu-d .hide-buttons .nav-btn {
   display: none !important;
@@ -625,6 +633,10 @@ h6,
 #contacts3-f H4 {
   text-align: left;
 }
+#social-buttons2-1j .mbr-section-title,
+#social-buttons2-1j .btn-social {
+  color: #232323;
+}
 #menu-q .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -694,6 +706,10 @@ h6,
 }
 #contacts3-s H4 {
   text-align: left;
+}
+#social-buttons2-1l .mbr-section-title,
+#social-buttons2-1l .btn-social {
+  color: #232323;
 }
 #menu-v .hide-buttons .nav-btn {
   display: none !important;
@@ -765,6 +781,10 @@ h6,
 #contacts3-x H4 {
   text-align: left;
 }
+#social-buttons2-1n .mbr-section-title,
+#social-buttons2-1n .btn-social {
+  color: #232323;
+}
 #menu-13 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -834,6 +854,10 @@ h6,
 }
 #contacts3-15 H4 {
   text-align: left;
+}
+#social-buttons2-1p .mbr-section-title,
+#social-buttons2-1p .btn-social {
+  color: #232323;
 }
 #form1-1b .form-control-label {
   color: #232323;
@@ -907,4 +931,8 @@ h6,
 }
 #contacts3-18 H4 {
   text-align: left;
+}
+#social-buttons2-1r .mbr-section-title,
+#social-buttons2-1r .btn-social {
+  color: #232323;
 }
