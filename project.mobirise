@@ -1432,7 +1432,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=13.90&amp;item_name=Burger+n+Chill-+Fried+Chicken+&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/chicken-satay-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/great-aussie-bbq-burger-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
