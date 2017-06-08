@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "burger.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -239,7 +239,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"steak.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
               }
             ],
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "showBullets": true
           },
           "_anchor": "slider2-1"
